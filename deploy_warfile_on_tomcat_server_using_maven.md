@@ -35,8 +35,8 @@ Procedure
 
 			<server>
 				<id>TomcatServer</id>
-				<username>admin</username>
-				<password>password</password>
+				<username>tomcat</username>
+				<password>2563</password>
 			</server>
 
 		</servers>
