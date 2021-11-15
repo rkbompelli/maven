@@ -17,7 +17,7 @@ Procedure
      <plugin>
    			<groupId>org.apache.tomcat.maven</groupId>
    			<artifactId>tomcat7-maven-plugin</artifactId>
-   			<version>2.2</version>
+   			<version>2.0</version>
    	  	<configuration>
       		<url>http://localhost:8080/manager/text</url>
       		<server>TomcatServer</server>
